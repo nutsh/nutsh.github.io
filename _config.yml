@@ -5,14 +5,14 @@ paginate_path: "page:num"
 exclude:  [ Gemfile, Gemfile.lock, Procfile, vendor, gems, "README.md" ]
 pygments: true
 
-title: $nutsh:~
+title: $ ajax@nutsh:~
 description: nutsh's blog
 author:
   name: ajax
   email: chutiankuosky@gmail.com
   github: nutsh
   twitter: nutsh
-  linkedin: nutsh
+  linkedin: ajax-zhang
   bio: Your stylish, minimalist theme!
   email_md5: b27879c29643c736b13349309a43902b
 
