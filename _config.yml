@@ -2,7 +2,7 @@
 
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
-exclude: ["README.md"] # files to exclude
+exclude:  [ Gemfile, Gemfile.lock, Procfile, vendor, gems, "README.md" ]
 pygments: true
 
 title: $nutsh:~
@@ -12,7 +12,6 @@ author:
   email: chutiankuosky@gmail.com
   github: nutsh
   twitter: nutsh
-#  pinterest: asd123
   linkedin: nutsh
   bio: Your stylish, minimalist theme!
   email_md5: b27879c29643c736b13349309a43902b
@@ -21,7 +20,7 @@ rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
-BASE_PATH: https://github.com/nutsh/nutsh.github.io
+BASE_PATH: 
 
 
 
