@@ -6,10 +6,6 @@ tag: [oracle, ops]
 
 ---
 
-
-
-# uninstall oracle DB 12c on linux
-
 ```sh
 [oradb@infbjvm10 deinstall]$  cd ${oracle_home}/deinstall
 [oradb@infbjvm10 deinstall]$  ./deinstall
