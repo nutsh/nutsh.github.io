@@ -3,8 +3,10 @@ layout: post
 title: Data dump options about  PARALLEL,logTime & exclude
 category: oracle
 tag: [oracle, ops]
-fullview: false
+shortinfo: Data dump options about  PARALLEL,logTime & exclude
 ---
+
+Data dump options about  PARALLEL,logTime & exclude
 
 # PARALLEL Option
 `PARALLEL` is not user for Object Struct creation , but effect with Data.

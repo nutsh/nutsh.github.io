@@ -3,8 +3,10 @@ layout: post
 title: Uninstall Oracle DB 12c
 category: oracle
 tag: [oracle, ops]
-fullview: false
+shortinfo: ninstall Oracle DB 12c
 ---
+
+Uninstall Oracle DB 12c
 
 ```sh
 [oradb@infbjvm10 deinstall]$  cd ${oracle_home}/deinstall
