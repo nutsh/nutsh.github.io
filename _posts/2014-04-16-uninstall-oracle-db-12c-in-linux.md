@@ -3,7 +3,7 @@ layout: post
 title: Uninstall Oracle DB 12c
 category: oracle
 tag: [oracle, ops]
-shortinfo: ninstall Oracle DB 12c
+shortinfo: uninstall Oracle DB 12c
 ---
 
 Uninstall Oracle DB 12c
