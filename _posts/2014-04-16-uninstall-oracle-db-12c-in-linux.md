@@ -3,7 +3,7 @@ layout: post
 title: Uninstall Oracle DB 12c
 category: oracle
 tag: [oracle, ops]
-fullview: true
+fullview: false
 ---
 
 ```sh

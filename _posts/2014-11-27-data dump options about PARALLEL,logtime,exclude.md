@@ -3,7 +3,7 @@ layout: post
 title: Data dump options about  PARALLEL,logTime & exclude
 category: oracle
 tag: [oracle, ops]
-fullview: true
+fullview: false
 ---
 
 # PARALLEL Option
