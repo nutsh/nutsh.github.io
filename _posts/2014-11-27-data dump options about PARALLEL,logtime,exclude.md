@@ -33,10 +33,12 @@ impdp IMPEXP/IMPEXP@POSTBOD3 schemas=C51HITR2 PARALLEL=4 directory=DATA_PUMP_DIR
 One new parameter introduced in Oracle 12c data pump which is called **logtime**. This is a command-line parameter which will display the messages or status in log with timestamp (time stamped format). This parameter helps the DBA to identify the time taken for each granule of export job. 
 
 There are 4 possible options available for logtime parameter.
+
 *  **NONE** – By default value and it will not show any timestamp
 *  **STATUS** – Will display the timestamp for status messages
 *  **LOGTIME** – Will display timestamp for log file messages
 *  **ALL** – will display timestamp for both status   
+
 ```sh
 impdp IMPEXP/IMPEXP@POSTBOD3 schemas=C51HITR2 PARALLEL=4 directory=DATA_PUMP_DIR dumpfile=AT_HOST_20141125_4_%U.dmp LOGFILE=4_2.log content=ALL logtime=all
 24-JUL-13 16:32:35.300: Starting "SYS"."QUERY_EXPORT":  /******** AS SYSDBA parfile=exp.par
