@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 密钥(无需密码)方式实现SSH访问
-category: linux
+category: ops
 tag: [linux]
 shortinfo: 使用密钥方式实现SSH远程访问
 ---
