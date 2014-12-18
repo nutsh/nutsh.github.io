@@ -12,7 +12,7 @@ shortinfo: 使用密钥方式实现SSH远程访问
 ```shell
 ssh username@remote_server
 ```
-可通过以下步骤
+可通过以下步骤 
 
 
 1. 打开本地termail.
