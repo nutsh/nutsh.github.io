@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Docker Note : 001 boot2docker
+title: Docker Note - 001 boot2docker
 category: ops
 tag: [ops,boot2docker,docker,linux,osx,cloud,artifact delivery]
 shortinfo: set up docker env in osx by boot2docker
 ---
 
-Docker Note : 001 boot2docker
+Docker Note - 001 boot2docker
 
 #boot2docker
 
