@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Docker Note : 001 boot2docker
-category: ops,cloud
+category: [ops,cloud]
 tag: [ops,boot2docker,docker,linux,osx]
 shortinfo: set up docker env in osx by boot2docker
 ---
