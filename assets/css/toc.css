@@ -12,6 +12,12 @@
  *   http://www.opensource.org/licenses/mit-license.php
  *   http://www.gnu.org/licenses/gpl.html
  */
+ 
+ #toc {
+     right: 0px;
+     position: absolute;
+ }
+
 
 #toc, .toc, .mw-warning {
     background-color: #F9F9F9;
