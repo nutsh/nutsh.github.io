@@ -6,6 +6,8 @@ tag: [ops,boot2docker,docker,linux,osx]
 shortinfo: set up docker env in osx by boot2docker
 ---
 
+Docker Note : 001 boot2docker
+
 #boot2docker
 
 ##startup/shutdown boot2docker
