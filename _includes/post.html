@@ -69,17 +69,17 @@
 	  {{ content }}
 	  </div>
 
-
+		<!--toc-->
 		<script type="text/javascript">
-
-		$('#main_content').toc({
-				showAlways:true
-		});
+			(function() {
+				$('#main_content').toc({
+						showAlways:true
+				});
+			})();
 		</script>
 
-
 		<!--disqus-->
-	<div id="disqus_thread"></div>
+	  <div id="disqus_thread"></div>
 
 	  <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
