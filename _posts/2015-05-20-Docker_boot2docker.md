@@ -25,3 +25,16 @@ Your environment variables are already set correctly.
 [iflexajax@zeta:~ ]$ boot2docker down
 
 ```
+
+## Socker / IP
+```
+[iflexajax@zeta:~ ]$ boot2docker socket
+Writing /Users/iflexajax/.boot2docker/certs/boot2docker-vm/ca.pem
+Writing /Users/iflexajax/.boot2docker/certs/boot2docker-vm/cert.pem
+Writing /Users/iflexajax/.boot2docker/certs/boot2docker-vm/key.pem
+    export DOCKER_HOST=tcp://192.168.59.103:2376
+    export DOCKER_CERT_PATH=/Users/iflexajax/.boot2docker/certs/boot2docker-vm
+    export DOCKER_TLS_VERIFY=1
+[iflexajax@zeta:~ ]$ boot2docker ip
+192.168.59.103
+```
